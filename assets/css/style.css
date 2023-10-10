@@ -40,3 +40,11 @@ input[type = checkbox]:checked, input[type = checkbox]:focus {
 .banners-title {
   --bs-bg-opacity: .2;
 }
+
+.default-btn {
+  background-color: var(--marrom-claro);
+}
+
+.default-btn:hover {
+  background-color: var(--marrom-escuro);
+}
